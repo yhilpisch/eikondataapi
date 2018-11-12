@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the Github repository with all resources from the **Eikon Data API Tutorials**.
+This is the Github repository with all resources from the **Eikon Data API Tutorials**. These are a set of video tutorials created for the Refinitiv Developer Community by Dr. Yves Hilpisch of The Python Quants. 
 
 **CAUTION**: This is an early commit, more details to follow soon.
 
@@ -16,8 +16,6 @@ Your **contact at Refinitiv** is
 Jason Ramchandani
 
 Developer Community Manager
-
-Phone: +44 (0) 207 542 0821
 
 Email: jason [dot] ramchandani [at] refinitiv [dot] com
 
