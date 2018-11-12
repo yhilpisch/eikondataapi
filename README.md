@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the Github repository with all resources from the **Eikon Data API Tutorials**. These are a set of video tutorials created for the Refinitiv Developer Community by Dr. Yves Hilpisch of The Python Quants. 
+This is the Github repository with all resources from the **Eikon Data API Tutorials**. These are a set of video tutorials created for the Refinitiv Developer Community by Dr. Yves Hilpisch of The Python Quants. For more information about the Eikon Data API please go to the developer community site [here](https://developers.thomsonreuters.com/eikon-apis/eikon-data-apis). To request a free trial for Eikon go [here](https://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software/eikon-download.html)
 
 **CAUTION**: This is an early commit, more details to follow soon.
 
